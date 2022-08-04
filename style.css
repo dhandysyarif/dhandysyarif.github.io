@@ -1,0 +1,29 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #00050d;
+  color: #fff;
+}
+
+#About {
+  background-color: #00050d;
+}
+
+#contact {
+  background-color: #00050d;
+}
+
+#Work {
+  background-color: #fff;
+}
+
+footer {
+  background-color: #00050d;
+  text-align: center;
+  font-style: italic;
+  font-size: small;
+  color: #55575a;
+}
